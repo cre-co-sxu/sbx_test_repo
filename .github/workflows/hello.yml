@@ -1,7 +1,7 @@
 name: Hello World
 on:
   push:
-    branches:[test/workflow-ai-test]
+    branches: [test/workflow-ai-test]
 jobs:
   hello:
     runs-on: ubuntu-latest
